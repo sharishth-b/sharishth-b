@@ -7,7 +7,7 @@
 - 💞️ I’m looking forward to collaborate on Spotfire and Data Science Repo managed by Bahwan Cybertek.
 - 📫 You can reach me out on teams or my LinkedIn profile.
 - ⚡ My major skill sets are Tibco Streambase, Tibco Spotfire, python, javascript, html, css and reactjs.
-- 📊 I deal in the field of data analysis, mainly with understanding the business flow and data streams.
+- 📊 I deal in the field of data analysis, mainly understanding the business flow, designing data streams and developing event-flow applications.
 - 🗂️ I have worked in various projects like telecommunication, oil & gas and logistics.
 - 🏅 I am certified in Oracle Cloud Infrastructure Foundations, Python and Responsive web design.
 
